@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"julia.executablePath": "C:\\Users\\paras\\AppData\\Local\\Programs\\Julia-1.10.9\\bin\\julia.exe",
+		"julia.execution.inlineResultsForCellEvaluation": true
+	}
+}

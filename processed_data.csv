@@ -1,0 +1,4 @@
+Text,Label,Cleaned,Processed,Encoded_Label
+I love Natural Language Processing!,Positive,i love natural language processing,love natural language processing,1
+Machine Learning is amazing.,Positive,machine learning is amazing,machine learning amazing,1
+AI is the future of technology.,Neutral,ai is the future of technology,ai future technology,0
